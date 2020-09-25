@@ -57,7 +57,7 @@ class TwitterAccess :
             
 
 twit = TwitterAccess()
-twit.sendMessage("SaraJane_8", "Hi lovey!! I'm sending this message from a python script hehe I love you!!")
+
 #twit.getElonsTweets()
 #twit.getElonsTweets()
 
